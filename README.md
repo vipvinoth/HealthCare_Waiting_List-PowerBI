@@ -28,6 +28,6 @@ Time-Based Trends: Tracks changes in patient volume over months and years.
 - SQL/Excel (if applicable): Data extraction and transformation.
 
 ## Screenshots
-![](https://github.com/vipvinoth/HealthCare_Waiting_List-PowerBI/blob/main/logo.png)
-![](https://github.com/vipvinoth/HealthCare_Waiting_List-PowerBI/blob/main/logo.png)
-![](https://github.com/vipvinoth/HealthCare_Waiting_List-PowerBI/blob/main/logo.png)
+![](https://github.com/vipvinoth/HealthCare_Waiting_List-PowerBI/blob/main/Screenshot%202025-01-29%20161354.png)
+![](https://github.com/vipvinoth/HealthCare_Waiting_List-PowerBI/blob/main/Screenshot%202025-01-29%20161333.png)
+![](https://github.com/vipvinoth/HealthCare_Waiting_List-PowerBI/blob/main/Screenshot%202025-01-29%20161304.png)
